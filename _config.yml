@@ -1,0 +1,6 @@
+title: Jekyll on Github
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
